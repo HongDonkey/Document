@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "1b77ce747a1b0785",
+    "type": "split",
+    "children": [
+      {
+        "id": "c196819806ff4135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e37d88aeffb69c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fe0342ac1e9413d",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e97a6b3693f026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523aab5658072ca9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbb105d7166fd331",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1462f06efb2e575",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cc18eff352fa79b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dd7214848f87eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6085380cb7dbbe7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "257892c9731b1706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7e80f57394b0a36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "655cca8b4591fbcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e37d88aeffb69c6c",
+  "lastOpenFiles": [
+    "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
+    "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
+    "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
+    "React/어라운드 허브 스튜디오/00. 개발 환경 세팅 및 프로젝트 생성.md",
+    "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+    "JS/07 배열메소드.md",
+    "JS/06 문자열 메소드.md",
+    "JS/05 숫자, 수학.md",
+    "JS/04 심볼.md",
+    "JS/03 객체 메소드, 계산된 프로퍼티.md",
+    "JS/02 생성자 함수.md",
+    "JS/01 스코프.md",
+    "JS/00 변수와 호이스팅.md",
+    "JS",
+    "React/무제 파일.md",
+    "React/어라운드 허브 스튜디오",
+    "React"
+  ]
+}
