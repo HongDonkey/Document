@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md"
+                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md"
               }
             }
           }
@@ -148,11 +148,18 @@
   },
   "active": "e37d88aeffb69c6c",
   "lastOpenFiles": [
+    "React/어라운드 허브 스튜디오/00. 개발 환경 세팅 및 프로젝트 생성.md",
+    "img/Pasted image 20240807215647.png",
+    "img/Pasted image 20240807215923.png",
+    "img/Pasted image 20240807221529.png",
+    "React/어라운드 허브 스튜디오/06. Props 실습편.md",
+    "img",
+    "React/어라운드 허브 스튜디오/05. Props 이론편.md",
+    "Pasted image 20240807215636.png",
+    "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
     "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
     "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
     "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
-    "React/어라운드 허브 스튜디오/00. 개발 환경 세팅 및 프로젝트 생성.md",
-    "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
     "JS/07 배열메소드.md",
     "JS/06 문자열 메소드.md",
     "JS/05 숫자, 수학.md",
