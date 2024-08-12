@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md",
+                "file": "JS/07 배열메소드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md",
+                "file": "JS/07 배열메소드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md",
+                "file": "JS/07 배열메소드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/06. Props 실습편.md"
+                "file": "JS/07 배열메소드.md"
               }
             }
           }
@@ -148,28 +148,36 @@
   },
   "active": "e37d88aeffb69c6c",
   "lastOpenFiles": [
+    "JS/03 객체 메소드, 계산된 프로퍼티.md",
+    "React/어라운드 허브 스튜디오/10. Context API 실습편.md",
+    "Pasted image 20240811164501.png",
+    "React/어라운드 허브 스튜디오/09. Conext API 이론편.md",
+    "img/Pasted image 20240811155420.png",
+    "img/Pasted image 20240811155047.png",
+    "React/어라운드 허브 스튜디오/08. State 실습편.md",
+    "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
+    "img/Pasted image 20240811145049.png",
+    "React/어라운드 허브 스튜디오/07. State 이론편.md",
+    "React/어라운드 허브 스튜디오/06. Props 실습편.md",
+    "React/무제 파일.md",
     "React/어라운드 허브 스튜디오/00. 개발 환경 세팅 및 프로젝트 생성.md",
     "img/Pasted image 20240807215647.png",
     "img/Pasted image 20240807215923.png",
     "img/Pasted image 20240807221529.png",
-    "React/어라운드 허브 스튜디오/06. Props 실습편.md",
     "img",
     "React/어라운드 허브 스튜디오/05. Props 이론편.md",
     "Pasted image 20240807215636.png",
     "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
-    "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
     "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
     "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
     "JS/07 배열메소드.md",
     "JS/06 문자열 메소드.md",
     "JS/05 숫자, 수학.md",
     "JS/04 심볼.md",
-    "JS/03 객체 메소드, 계산된 프로퍼티.md",
     "JS/02 생성자 함수.md",
     "JS/01 스코프.md",
     "JS/00 변수와 호이스팅.md",
     "JS",
-    "React/무제 파일.md",
     "React/어라운드 허브 스튜디오",
     "React"
   ]
