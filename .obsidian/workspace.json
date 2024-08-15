@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/07 배열메소드.md",
+                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/07 배열메소드.md",
+                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/07 배열메소드.md",
+                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/07 배열메소드.md"
+                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "e37d88aeffb69c6c",
   "lastOpenFiles": [
+    "img/Pasted image 20240815163512.png",
+    "React/어라운드 허브 스튜디오/12. Layout-오류.md",
+    "img/Pasted image 20240815160205.png",
+    "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
+    "React/어라운드 허브 스튜디오/11. Layout 이론편.md",
+    "JS/07 배열메소드.md",
     "JS/03 객체 메소드, 계산된 프로퍼티.md",
     "React/어라운드 허브 스튜디오/10. Context API 실습편.md",
-    "Pasted image 20240811164501.png",
+    "JS/Pasted image 20240811164501.png",
     "React/어라운드 허브 스튜디오/09. Conext API 이론편.md",
     "img/Pasted image 20240811155420.png",
     "img/Pasted image 20240811155047.png",
@@ -170,7 +176,6 @@
     "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
     "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
     "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
-    "JS/07 배열메소드.md",
     "JS/06 문자열 메소드.md",
     "JS/05 숫자, 수학.md",
     "JS/04 심볼.md",
