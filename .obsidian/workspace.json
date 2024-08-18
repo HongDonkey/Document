@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
+                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
+                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
+                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/12. Layout 실습편.md"
+                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md"
               }
             }
           }
@@ -148,11 +148,17 @@
   },
   "active": "e37d88aeffb69c6c",
   "lastOpenFiles": [
-    "img/Pasted image 20240815163512.png",
     "React/어라운드 허브 스튜디오/12. Layout-오류.md",
-    "img/Pasted image 20240815160205.png",
+    "React/어라운드 허브 스튜디오/14. Router 실습편.md",
+    "React/어라운드 허브 스튜디오/13. Router 이론편.md",
+    "img/Pasted image 20240818164144.png",
+    "img/Pasted image 20240818164708.png",
+    "img/Pasted image 20240818164705.png",
+    "img/Pasted image 20240818164649.png",
     "React/어라운드 허브 스튜디오/12. Layout 실습편.md",
     "React/어라운드 허브 스튜디오/11. Layout 이론편.md",
+    "img/Pasted image 20240815163512.png",
+    "img/Pasted image 20240815160205.png",
     "JS/07 배열메소드.md",
     "JS/03 객체 메소드, 계산된 프로퍼티.md",
     "React/어라운드 허브 스튜디오/10. Context API 실습편.md",
@@ -167,12 +173,8 @@
     "React/어라운드 허브 스튜디오/06. Props 실습편.md",
     "React/무제 파일.md",
     "React/어라운드 허브 스튜디오/00. 개발 환경 세팅 및 프로젝트 생성.md",
-    "img/Pasted image 20240807215647.png",
-    "img/Pasted image 20240807215923.png",
-    "img/Pasted image 20240807221529.png",
     "img",
     "React/어라운드 허브 스튜디오/05. Props 이론편.md",
-    "Pasted image 20240807215636.png",
     "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
     "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
     "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
