@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md",
+                "file": "React/어라운드 허브 스튜디오/16. useEffect 실습편.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md",
+                "file": "React/어라운드 허브 스튜디오/16. useEffect 실습편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md",
+                "file": "React/어라운드 허브 스튜디오/16. useEffect 실습편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/14. Router 실습편.md"
+                "file": "React/어라운드 허브 스튜디오/16. useEffect 실습편.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "e37d88aeffb69c6c",
   "lastOpenFiles": [
-    "React/어라운드 허브 스튜디오/12. Layout-오류.md",
+    "React/어라운드 허브 스튜디오/API 테스트 페이지.md",
+    "React/어라운드 허브 스튜디오/16. useEffect 실습편.md",
+    "React/어라운드 허브 스튜디오/15. useEffect 이론편.md",
+    "React/어라운드 허브 스튜디오/05. Props 이론편.md",
+    "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
+    "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
+    "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
+    "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
+    "img/Pasted image 20240819214006.png",
     "React/어라운드 허브 스튜디오/14. Router 실습편.md",
+    "React/어라운드 허브 스튜디오/12. Layout-오류.md",
     "React/어라운드 허브 스튜디오/13. Router 이론편.md",
     "img/Pasted image 20240818164144.png",
     "img/Pasted image 20240818164708.png",
@@ -167,23 +176,15 @@
     "img/Pasted image 20240811155420.png",
     "img/Pasted image 20240811155047.png",
     "React/어라운드 허브 스튜디오/08. State 실습편.md",
-    "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
-    "img/Pasted image 20240811145049.png",
     "React/어라운드 허브 스튜디오/07. State 이론편.md",
     "React/어라운드 허브 스튜디오/06. Props 실습편.md",
     "React/무제 파일.md",
     "React/어라운드 허브 스튜디오/00. 개발 환경 세팅 및 프로젝트 생성.md",
     "img",
-    "React/어라운드 허브 스튜디오/05. Props 이론편.md",
-    "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
-    "React/어라운드 허브 스튜디오/02. Yarn 패키지 매니저 적용하기.md",
-    "React/어라운드 허브 스튜디오/01. 프로젝트 구조 살펴보기.md",
     "JS/06 문자열 메소드.md",
     "JS/05 숫자, 수학.md",
     "JS/04 심볼.md",
     "JS/02 생성자 함수.md",
-    "JS/01 스코프.md",
-    "JS/00 변수와 호이스팅.md",
     "JS",
     "React/어라운드 허브 스튜디오",
     "React"
