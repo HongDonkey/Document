@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/15. useEffect 이론편.md",
+                "file": "React/어라운드 허브 스튜디오/22. LocalStorage, SessionStorage 실습편.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/15. useEffect 이론편.md",
+                "file": "React/어라운드 허브 스튜디오/22. LocalStorage, SessionStorage 실습편.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/15. useEffect 이론편.md",
+                "file": "React/어라운드 허브 스튜디오/22. LocalStorage, SessionStorage 실습편.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/어라운드 허브 스튜디오/15. useEffect 이론편.md"
+                "file": "React/어라운드 허브 스튜디오/22. LocalStorage, SessionStorage 실습편.md"
               }
             }
           }
@@ -149,21 +149,23 @@
   },
   "active": "e37d88aeffb69c6c",
   "lastOpenFiles": [
-    "React/어라운드 허브 스튜디오/16. useEffect 실습편.md",
+    "React/어라운드 허브 스튜디오/21. LocalStorage, SessionStorage 이론편.md",
+    "React/어라운드 허브 스튜디오/22. LocalStorage, SessionStorage 실습편.md",
     "React/어라운드 허브 스튜디오/20. Axios 실습편.md",
+    "React/어라운드 허브 스튜디오/99. 오류.md",
+    "React/어라운드 허브 스튜디오/15. useEffect 이론편.md",
+    "React/어라운드 허브 스튜디오/16. useEffect 실습편.md",
     "React/어라운드 허브 스튜디오/09. Conext API 이론편.md",
     "React/기본 문법 관련.md",
     "JS/00 변수와 호이스팅.md",
     "React/어라운드 허브 스튜디오/17. Fetch API 이론편.md",
     "React/어라운드 허브 스튜디오/19. Axios 이론편.md",
     "React/어라운드 허브 스튜디오/API 테스트 페이지.md",
-    "React/어라운드 허브 스튜디오/99. 오류.md",
     "img/Pasted image 20240820220035.png",
     "img/Pasted image 20240820215947.png",
     "img/Pasted image 20240820215943.png",
     "img/Pasted image 20240820215818.png",
     "React/어라운드 허브 스튜디오/18. Fetch API 실습편.md",
-    "React/어라운드 허브 스튜디오/15. useEffect 이론편.md",
     "React/어라운드 허브 스튜디오/05. Props 이론편.md",
     "React/어라운드 허브 스튜디오/04. Emotion 적용하기.md",
     "React/어라운드 허브 스튜디오/03. Prettier, ESLint 설치하기.md",
@@ -183,8 +185,6 @@
     "JS/03 객체 메소드, 계산된 프로퍼티.md",
     "React/어라운드 허브 스튜디오/10. Context API 실습편.md",
     "React/어라운드 허브 스튜디오/08. State 실습편.md",
-    "React/어라운드 허브 스튜디오/07. State 이론편.md",
-    "React/어라운드 허브 스튜디오/06. Props 실습편.md",
     "img",
     "JS",
     "React/어라운드 허브 스튜디오",
